@@ -1,6 +1,6 @@
 # Deploying a Flask API
 
-CLUSTER IP: acf6b226c0b8b46c0838132c46e7a479-1847743255.us-east-2.elb.amazon
+CLUSTER IP: acf6b226c0b8b46c0838132c46e7a479-1847743255.us-east-2.elb.amazonaws.com
 
 
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
