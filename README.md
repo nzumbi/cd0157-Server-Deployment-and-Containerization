@@ -1,5 +1,8 @@
 # Deploying a Flask API
 
+CLUSTER IP: acf6b226c0b8b46c0838132c46e7a479-1847743255.us-east-2.elb.amazon
+
+
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
 
 In this project you will containerize and deploy a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.
